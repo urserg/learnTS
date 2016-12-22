@@ -1,0 +1,22 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urserg/learnTS.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "urserg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urserg/learnTS/issues"
+  },
+  "homepage": "https://github.com/urserg/learnTS#readme"
+}
